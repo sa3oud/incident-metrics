@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/incident-metrics/static/css/main.dfb0ec73.css",
+    "main.js": "/incident-metrics/static/js/main.067b5cd8.js",
+    "index.html": "/incident-metrics/index.html",
+    "main.dfb0ec73.css.map": "/incident-metrics/static/css/main.dfb0ec73.css.map",
+    "main.067b5cd8.js.map": "/incident-metrics/static/js/main.067b5cd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfb0ec73.css",
+    "static/js/main.067b5cd8.js"
+  ]
+}
